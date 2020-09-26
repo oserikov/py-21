@@ -32,16 +32,16 @@
 Ниже картинки.
 
 #### 1  
-<img src="img/powershell-howto.png" width="300px"/>
+<p align="center"><img src="img/powershell-howto.png" width="300px"/></p>
 
 #### 2  
-<img src="img/powershell-howto2.png" width="300px"/>
+<p align="center"><img src="img/powershell-howto2.png" width="300px"/></p>
 
 #### 3  
-<img src="img/powershell-howto3.png" width="300px"/>
+<p align="center"><img src="img/powershell-howto3.png" width="300px"/></p>
 
 #### 4  
-<img src="img/powershell-howto4.png" width="300px"/>
+<p align="center"><img src="img/powershell-howto4.png" width="300px"/></p>
 
 ## Как создать plaintext файл в папке командной строкой
 
@@ -55,8 +55,12 @@
 
 Выполните в командной строке в нужной папке команду `mv староеимяфайла желанноеимяфайла`. Помните, что если у файла есть расширение, то оно входит в имяфайла: имя файла `котики.txt` -- это `котики.txt` , а не `котики`.
 
-Например:
+Например:  
+
+<p align="center">
 <img src="img/mv.png" width="300px"/>
+</p>
+
 
 ## Как посмотреть список файлов, которые уже есть в текущей папке, командной строкой
 
