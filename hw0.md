@@ -31,9 +31,7 @@
 
 Вот видео-тьюториал (укороченная версия) от [@kudep](https://github.com/kudep)
 
-https://user-images.githubusercontent.com/26529027/133659546-d3375e8d-e329-47a6-884d-e5f987c5153f.mp4
-
-
+<video src="img/install_wsl2_short2.mp4" width=180/>
 
 
 ## Как открывать командную строку в папке 
