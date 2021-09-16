@@ -29,7 +29,9 @@
 
 Следуйте инструкции из секции "Шаги по установке вручную" [отсюда](https://docs.microsoft.com/ru-ru/windows/wsl/install-win10#manual-installation-steps).
 
-Вот [видео-тьюториал](https://github.com/oserikov/py-21/blob/master/img/install_wsl2_short2.mp4) (укороченная версия) от [@kudep](https://github.com/kudep)
+Вот видео-тьюториал (укороченная версия) от [@kudep](https://github.com/kudep)
+https://user-images.githubusercontent.com/26529027/133659546-d3375e8d-e329-47a6-884d-e5f987c5153f.mp4
+
 
 
 
