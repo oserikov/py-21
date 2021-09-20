@@ -30,7 +30,7 @@
 
 Следуйте инструкции из секции "Шаги по установке вручную" [отсюда](https://docs.microsoft.com/ru-ru/windows/wsl/install-win10#manual-installation-steps).
 
-Вот [видео-тьюториал (укороченная версия)](https://files.deeppavlov.ai/oleg/py-21/img/install_wsl2_short2.mp4) от [@kudep](https://github.com/kudep)
+Вот [видео-тьюториал (укороченная версия)](https://files.deeppavlov.ai/oleg/py-21/img/install_wsl2.mp4) от [@kudep](https://github.com/kudep)
 
 ## Как подготовить Mac
 (Как настроить brew(🍺) и средства-разработчика)
