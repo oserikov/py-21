@@ -119,7 +119,7 @@
 
 ### На mac os:
 (нужно иметь установленным brew(🍺) (см выше)).
-Вот [видос](https://files.deeppavlov.ai/oleg/py-21/img/install_homebrew.mp4) от (@noble_hologram)[https://github.com/noblehologram] с установкой брю и питона, делайте как в нём.
+Вот [видос](https://files.deeppavlov.ai/oleg/py-21/img/install_homebrew.mp4) от [@noble_hologram](https://github.com/noblehologram) с установкой брю и питона, делайте как в нём.
 
 Как установить питон на мак? в Терминале запустите `brew install python`
 
